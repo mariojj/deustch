@@ -1,0 +1,5 @@
+{
+  "name": "Copy of German Vocabulary Quiz",
+  "description": "A web application to practice German vocabulary. Load a Google Sheet with Spanish words, their German translations, and audio pronunciation URLs. The app will randomly quiz you on the words, playing the audio and asking for the Spanish translation of the German term. At the end, it shows your score and accuracy.",
+  "requestFramePermissions": []
+}
